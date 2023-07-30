@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "taskId": 1,
+      "title": "File read-write async",
+      "description": "understand the async nature of file read and write",
+      "isCompleted": true
+    },
+    {
+      "taskId": 2,
+      "title": "Learn Docker",
+      "description": "understand the docker and its needs",
+      "isCompleted": false
+    }
+  ]
+}
